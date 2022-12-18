@@ -21,7 +21,15 @@ timeline: true
 
 ## 搜索引擎
 
-<NavCard arr='[{"title":"百度","url":"https://www.baidu.com/","desc":"中文搜索引擎","icon":"/navicon/baidu.ico"},{"title":"必应","url":"https://cn.bing.com/","desc":"优秀的国内外搜索引擎","icon":"/navicon/bing.ico"},{"title":"谷歌","url":"https://www.google.com/","desc":"被墙的国内外搜索引擎","icon":"/navicon/google.ico"},{"title":"找代码","url":"https://www.programcreek.com/java-api-examples/index.php","desc":"搜一下某个类的使用方法","icon":"/navicon/java.ico"}]'></NavCard>
+<NavCard arr='[
+{"title":"百度","url":"https://www.baidu.com/","desc":"中文搜索引擎","icon":"/navicon/baidu.ico"},
+{"title":"必应","url":"https://cn.bing.com/","desc":"优秀的国内外搜索引擎","icon":"/navicon/bing.ico"},
+{"title":"谷歌","url":"https://www.google.com/","desc":"被墙的国内外搜索引擎","icon":"/navicon/google.ico"},
+{"title":"找代码","url":"https://www.programcreek.com/java-api-examples/index.php","desc":"搜一下某个类的使用方法","icon":"/navicon/java.ico"},
+{"title":"百度开发者","url":"https://kaifa.baidu.com/","desc":"开发人员的搜索引擎","icon":"/navicon/百度开发者.svg"},
+{"title":"马克飞象","url":"https://maxiang.io/","desc":"一款在线markdown编辑器","icon":"/navicon/markdown.svg"},
+{"title":"searxNG","url":"https://searx.space/","desc":"SearX是尊重隐私可二次开发的元搜索引擎","icon":"/navicon/searxng.png"}
+]'></NavCard>
 
 ## 开源社区
 
@@ -39,19 +47,17 @@ timeline: true
 
 <NavCard arr='[{"title":"Electron","url":"https://www.electronjs.org/","desc":"electron官方文档","icon":"/navicon/electron.svg"},{"title":"IDEA","url":"https://idea.javaguide.cn/","desc":"IDEA高效使用指南","icon":"/navicon/idea.svg"},{"title":"QuickRef","url":"https://quickref.me/","desc":"快速学习各种语言的语法","icon":"/navicon/quickref.png"},{"title":"中文网","url":"http://c.biancheng.net/","desc":"C语言中文网","icon":"/navicon/c.ico"},{"title":"菜鸟教程","url":"https://www.runoob.com/","desc":"菜鸟在线教程","icon":"/navicon/runoob.ico"},{"title":"W3C","url":"https://www.w3cschool.cn/tutorial","desc":"w3c在线基础教程","icon":"/navicon/w3c.ico"},{"title":"w3school","url":"https://www.w3school.com.cn/index.html","desc":"领先的web技术教程","icon":"/navicon/w3school.png"}]'></NavCard>
 
-
-
 ## 文档相关
 
 <NavCard arr='[{"title":"在线MD","url":"https://markdown.com.cn/editor/","desc":"在线编写MarkDown","icon":"/navicon/github.ico"},{"title":"hope","url":"https://vuepress-theme-hope.gitee.io/v2/zh/","desc":"一个优秀静态博客搭建工具","icon":"/navicon/hope.svg"}]'></NavCard>
-
-
-
-
-
-
 
 ## 其他导航
 
 <NavCard arr='[{"title":"极下解析","url":"https://jixia.ltd/","desc":"百度云外链解析","icon":"/navicon/jixia.ico"},{"title":"MyOctoCat","url":"https://myoctocat.com/","desc":"程序员头像","icon":"/navicon/github.ico"},{"title":"LeetCode","url":"https://leetcode.cn/","desc":"刷题网站","icon":"/navicon/leetcode.ico"},{"title":"Jar包下载","url":"https://search.maven.org/","desc":"Jar包个版本下载","icon":"/navicon/jar.ico"},{"title":"ghelper","url":"http://ghelper.net/","desc":"看世界","icon":"/navicon/ghelper.png"},{"title":"Maven仓库","url":"https://mvnrepository.com/","desc":"Maven官方仓库","icon":"/navicon/mvn.ico"}]'></NavCard>
 
+## Linux镜像站
+
+<NavCard arr='[
+  {"title":"阿里云","url":"https://developer.aliyun.com/mirror/?spm=a2c6h.25603864.0.0.75fb4ccaIzOOb9","desc":"不同linux系统的的镜像地址源","icon":"/navicon/阿里云.png"},
+  {"title":"清华","url":"https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/","desc":"清华大学开源软件镜像站","icon":"/navicon/清华大学镜像站.png"},
+   {"title":"华为","url":"https://mirrors.huaweicloud.com/home","desc":"华为开源软件镜像站","icon":"/navicon/华为.svg"}]'></NavCard>
